@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Pierre-Adrien Langrognet"
+	],
+	"copyright": "Copyright © 2021, Pierre-Adrien Langrognet",
+	"description": "Tchoutchou trouve des itinéraires TGV max",
+	"license": "None",
+	"name": "tchoutchou",
+	"libs": ["curl"]
+}
